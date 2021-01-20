@@ -1,0 +1,8 @@
+[Kalman and Bayesian Filters in Python](https://github.com/eotp/Kalman-and-Bayesian-Filters-in-Python)
+[Discrete Kalman Filter Tutorial](https://cse.sc.edu/~terejanu/files/tutorialKF.pdf)
+[A Step by Step Mathematical Derivation andTutorial on Kalman Filters](https://arxiv.org/pdf/1910.03558.pdf)
+[An Elementary Introduction to Kalman Filtering](https://arxiv.org/pdf/1710.04055.pdf)
+[Kalman filter demystified: from intuition toprobabilistic graphical model to real case infinancial markets](https://arxiv.org/pdf/1811.11618.pdf)
+[Constructing Bayesian Networks for Linear Dynamic Systems](http://ceur-ws.org/Vol-818/paper4.pdf)
+[]()
+[]()
