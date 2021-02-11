@@ -80,7 +80,9 @@
 
 [Early Anomaly Detection and Localization inDistribution Network: A Data-Driven Approach](https://arxiv.org/pdf/1801.01669.pdf)
 
-(Applications of Hawkes’ Process in Finance)[http://arno.uvt.nl/show.cgi?fid=151308]
+[Applications of Hawkes’ Process in Finance](http://arno.uvt.nl/show.cgi?fid=151308)
+
+[Modeling Financial ContagionUsing Mutually Exciting Jump Processes](www.uva.nl/binaries/content/assets/faculteiten/faculteit-economie-en-bedrijfskunde/onderzoek/macro-finance-risk/acl-contagion.pdf)
 
 ## Trading
 
